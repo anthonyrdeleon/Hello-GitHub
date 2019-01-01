@@ -1,2 +1,2 @@
-# Hello-GitHup
-My First GitHup Repo
+# Hello-GitHub
+My First GitHub Repo
